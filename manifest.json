@@ -1,7 +1,7 @@
 {
  "display": "fullscreen",
- "background_color": "#D5D1D0",
- "name": "SCH_Template (Dupliqué)",
+ "name": "Prisma360_portfolio",
+ "theme_color": "#D5D1D0",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +39,6 @@
    "sizes": "64x64"
   }
  ],
- "theme_color": "#D5D1D0",
- "start_url": "index.htm"
+ "start_url": "index.htm",
+ "background_color": "#D5D1D0"
 }
