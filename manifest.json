@@ -1,7 +1,8 @@
 {
  "display": "fullscreen",
+ "start_url": "index.htm",
  "name": "Prisma360_portfolio",
- "theme_color": "#D5D1D0",
+ "background_color": "#D5D1D0",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm",
- "background_color": "#D5D1D0"
+ "theme_color": "#D5D1D0"
 }
